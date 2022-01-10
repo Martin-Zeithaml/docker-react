@@ -1,0 +1,2 @@
+WSL2 does not support (at this moment) detecting changes of the files.
+Verify the changes by docker exec -it cid sh
